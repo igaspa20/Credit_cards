@@ -15,7 +15,7 @@ mathjax: "true"
 
 ![jpg](visa_image.jpg)
 
-Modelo para detectar lso clientes que pueden dejar nustro negocio, en este caso los clientes que pueden dejar de usar nuestras tarjetas de crédito.
+Modelo para detectar los clientes que pueden dejar nuestro negocio, en este caso los clientes que pueden dejar de usar nuestras tarjetas de crédito.
 
 Los datos provienen de Kaggle: https://www.kaggle.com/sakshigoyal7/credit-card-customers/tasks?taskId=2896
 
