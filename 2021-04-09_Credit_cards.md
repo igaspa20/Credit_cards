@@ -30,16 +30,6 @@ import plotly.express as px
 
 
 ```python
-#!pip install plotly
-```
-
-
-```python
-#!pip install nbconvert
-```
-
-
-```python
 dataset = pd.read_csv("BankChurners.csv")
 ```
 
